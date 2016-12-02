@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/common_allen/!svn/ver/3/Common/src/com/allen/common/udp
+END
+UDPClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/common_allen/!svn/ver/3/Common/src/com/allen/common/udp/UDPClient.java
+END
+CommunicationListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/common_allen/!svn/ver/3/Common/src/com/allen/common/udp/CommunicationListener.java
+END
+DatagramSocketManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/common_allen/!svn/ver/3/Common/src/com/allen/common/udp/DatagramSocketManager.java
+END
+UDPServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/common_allen/!svn/ver/3/Common/src/com/allen/common/udp/UDPServer.java
+END
+UDPReceive.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/common_allen/!svn/ver/3/Common/src/com/allen/common/udp/UDPReceive.java
+END

@@ -1,0 +1,116 @@
+10
+
+dir
+3
+http://code.taobao.org/svn/common_allen/Common/src/com/allen/common
+http://code.taobao.org/svn/common_allen
+
+
+
+2015-08-25T01:13:54.216804Z
+3
+nobdon
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+f9f2ed9b-60c4-4537-a578-8ffafd3ebd78
+
+Login.java
+file
+
+
+
+
+2015-08-25T01:15:56.000000Z
+6de6cb33f24d9685ea800ee7f776be6d
+2015-08-25T01:13:54.216804Z
+3
+nobdon
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1092
+
+adapter
+dir
+
+byte_encry
+dir
+
+comm
+dir
+
+custom
+dir
+
+data_clean
+dir
+
+exception
+dir
+
+exit
+dir
+
+files
+dir
+
+gps
+dir
+
+http
+dir
+
+images
+dir
+
+md5
+dir
+
+network
+dir
+
+notification
+dir
+
+tcp
+dir
+
+udp
+dir
+
+update
+dir
+
+zip
+dir
+

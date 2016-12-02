@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/common_allen/!svn/ver/3/Common/src/com/allen/common/byte_encry
+END
+SubByteUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/common_allen/!svn/ver/3/Common/src/com/allen/common/byte_encry/SubByteUtil.java
+END
+ByteUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/common_allen/!svn/ver/3/Common/src/com/allen/common/byte_encry/ByteUtils.java
+END
+Base64Coder.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/common_allen/!svn/ver/3/Common/src/com/allen/common/byte_encry/Base64Coder.java
+END
+DESUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/common_allen/!svn/ver/3/Common/src/com/allen/common/byte_encry/DESUtil.java
+END

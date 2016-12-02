@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+ 
+    <!-- 顶部椭园边缘 -->
+    <ImageView
+        android:layout_width="fill_parent"
+        android:layout_height="22dp"
+        android:visibility="gone"
+        android:src="@drawable/ic_launcher" >
+    </ImageView>
+	<!-- 中间白色背景,两个TextView,标题和内容,留一个LinearLayout,在代码中根据调用动态加上按钮 -->
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:padding="20dp"
+        android:background="@drawable/mydialog_bg"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:orientation="vertical" >
+ 
+        <TextView
+            android:textSize="20dp"
+            android:gravity="center"
+            android:id="@+id/title"
+            android:textColor="@color/title_bg_orange"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" />
+ 
+        <TextView android:layout_marginLeft="20dp"
+            android:layout_marginRight="10dp"
+            android:id="@+id/message"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"
+            android:textColor="@color/title_bg_orange"
+            android:textSize="18dp"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" />
+		<!-- 在LinearLayout中加按钮 -->
+        <LinearLayout
+            android:id="@+id/buttonLayout"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:orientation="horizontal" >
+            
+        </LinearLayout>
+    </LinearLayout>
+    <!-- 底部椭园边缘 -->
+    <ImageView
+        android:layout_marginTop="-2dp"
+        android:layout_width="fill_parent"
+        android:layout_height="22dp"
+        android:visibility="gone"
+        android:src="@drawable/ic_launcher" >
+    </ImageView>
+ 
+</LinearLayout>

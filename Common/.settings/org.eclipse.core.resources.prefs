@@ -1,0 +1,16 @@
+eclipse.preferences.version=1
+encoding//src/com/allen/common/adapter/ContacterExpandAdapter.java=UTF-8
+encoding//src/com/allen/common/byte_encry/SubByteUtil.java=GBK
+encoding//src/com/allen/common/comm/ScreenUtil.java=UTF-8
+encoding//src/com/allen/common/comm/StringUtil.java=GBK
+encoding//src/com/allen/common/custom/BorderEditText.java=GBK
+encoding//src/com/allen/common/custom/BorderText.java=GBK
+encoding//src/com/allen/common/custom/BorderTextView.java=GBK
+encoding//src/com/allen/common/custom/MyScrollView.java=gbk
+encoding//src/com/allen/common/exit/ExitApplication.java=GBK
+encoding//src/com/allen/common/files/FileCacheUtil.java=gbk
+encoding//src/com/allen/common/images/ImageFileCache.java=gbk
+encoding//src/com/allen/common/images/ImageLoader.java=UTF-8
+encoding//src/com/allen/common/udp/DatagramSocketManager.java=gbk
+encoding//src/com/allen/common/udp/UDPClient.java=UTF-8
+encoding//src/com/allen/common/udp/UDPReceive.java=UTF-8
